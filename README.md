@@ -1,4 +1,4 @@
-brainf*** programms
+brainf*** programs
 
 esoteric language
 
